@@ -1,2 +1,2 @@
 # telusko_django
-Followed the tutorials
+Followed the django tutorials of telusko
